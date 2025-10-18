@@ -38,7 +38,7 @@ Here is a preview of the interactive Power BI dashboard.
 
 ## How to Use This Repository
 
-1.  **`HR_Attrition_Analysis.ipynb`:** The Jupyter Notebook containing all the Python code for data cleaning and model building.
+1.  **`HR Analytics - Predict Employee Attrition.ipynb`:** The Jupyter Notebook containing all the Python code for data cleaning and model building.
 2.  **`cleaned_hr_data.csv`:** The cleaned dataset required to run the notebook.
 3.  **`HR_Attrition_Dashboard.pbix`:** The Power BI file. You will need Power BI Desktop to open this.
 4.  **`HR_Attrition_Report.pdf`:** The final 2-page project summary report.
