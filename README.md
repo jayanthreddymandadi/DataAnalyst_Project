@@ -32,7 +32,6 @@ The analysis revealed several key factors influencing attrition:
 
 Here is a preview of the interactive Power BI dashboard.
 
-*(Note: After you upload your screenshot to GitHub, replace the link below with the actual link to your image)*
 ![Power BI Dashboard](dashboard_screenshot.jpg)
 
 ---
